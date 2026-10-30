@@ -3,7 +3,17 @@
 # 🎬 OmniUpscaler (OmniScale AI)
 ### Free 4K AI Video Super-Resolution for Low-End PCs, Laptops & Mobile Phones
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NiL4gh/omni-upscaler/blob/main/enhanced_video_upscaler.ipynb)
+<br>
+
+<a href="https://colab.research.google.com/github/NiL4gh/omni-upscaler/blob/main/enhanced_video_upscaler.ipynb" target="_blank">
+  <img src="https://img.shields.io/badge/%E2%9A%A1_START_UPSCALING_NOW-OPEN_IN_COLAB-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white&labelColor=202124" height="52" alt="Open in Colab" />
+</a>
+
+<br><br>
+
+<a href="https://colab.research.google.com/github/NiL4gh/omni-upscaler/blob/main/enhanced_video_upscaler.ipynb" target="_blank">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" height="34" alt="Open In Colab" />
+</a>
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Zero Local GPU Required](https://img.shields.io/badge/Hardware-0%25%20Local%20GPU%20Required-success.svg)](#-why-omniupscaler)
 [![Engine: Real--ESRGAN](https://img.shields.io/badge/Engine-Real--ESRGAN%20v0.3.0-indigo.svg)](https://github.com/xinntao/Real-ESRGAN)
@@ -37,9 +47,13 @@ Traditional AI video software (like Topaz Video AI or local Real-ESRGAN builds) 
 ## 🚀 Quickstart (Under 60 Seconds)
 
 ### Step 1: Open in Colab
-Click the button below to open the notebook directly in Google Colab:
+Click the large button below to launch the cloud notebook directly on Google Colab (no installation required):
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NiL4gh/omni-upscaler/blob/main/enhanced_video_upscaler.ipynb)
+<p align="left">
+  <a href="https://colab.research.google.com/github/NiL4gh/omni-upscaler/blob/main/enhanced_video_upscaler.ipynb" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%9A%80_LAUNCH_FREE_GPU_STUDIO-OPEN_IN_COLAB-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white&labelColor=202124" height="44" alt="Launch on Colab" />
+  </a>
+</p>
 
 ### Step 2: Connect GPU Runtime
 1. In Colab, make sure the runtime is set to **T4 GPU** (`Runtime` ➔ `Change runtime type` ➔ `T4 GPU`).
